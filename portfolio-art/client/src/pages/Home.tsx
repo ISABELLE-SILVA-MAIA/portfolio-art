@@ -10,9 +10,9 @@ export default function Home() {
   const galleryItems = [
     {
       id: "1",
-      src: "https://d2xsxph8kpxj0f.cloudfront.net/310419663030997185/ZB44LbALyjx9sPxJpcMj24/portfolio-illustration-1-EhTCeS3uyfxJZpo5vY3RwC.webp",
-      alt: "Ilustração de Personagem Fantasy",
-      title: "Personagem Fantasy",
+      src: "/Dante.PNG",
+      alt: "Ilustração do Dante miranha",
+      title: "Dante o miranha",
       category: "Ilustração Digital",
       width: 1,
       height: 1,
